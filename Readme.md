@@ -7,3 +7,5 @@ Second change
 Hello again
 
 Final test
+
+Fixing #issue #3
